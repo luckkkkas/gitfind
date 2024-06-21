@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './pages/App';
-import {Container} from './styles';
+
 
 import GlobalStyles from './styles';
 

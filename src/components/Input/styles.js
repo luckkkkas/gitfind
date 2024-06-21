@@ -5,17 +5,18 @@ export const InputContainer = styled.div`
     border-radius: 20px;
 
     height:62px;
-    width: 80px;
+    width: 80%;
 
-    margin: 20px 
+    margin: 20px;
 
-    input{
-    background: transparent;
-    width:100%;
-    height: 62px;
-    color: #FFFFFF
-    padding: 0 20px;
-    font-size:20px;
+    input {
+        background-color: transparent;
+        border: 0;
+        width:98%;
+        height: 62px;
+        color: #FFFFFF
+        padding: 0 20px;
+        font-size:20px;
     
     }
 `
